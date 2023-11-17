@@ -1,0 +1,12 @@
+{
+  "name": "storageservice",
+  "version": "1.0.0",
+  "description": "typesafe storage service to interact with ex. session/local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
